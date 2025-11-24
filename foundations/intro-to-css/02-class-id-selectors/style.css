@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd {
+    background-color: #fcc2b6;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.oddpro {
+    font-size: 24px;
+}
+
+#id1 {
+    color: #001eff;
+    font-size: 36px;
+}
+
+#id2 {
+    background-color: #30ff80;
+    font-size: 24px;
+    font-weight: 900;
+}
